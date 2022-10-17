@@ -298,7 +298,7 @@ body::-webkit-scrollbar-thumb {
       justify-content: center;
       align-items: center; }
     main section.home {
-      background-color: #141414;
+      background-color: #ffffff;
       height: 100vh;
       display: flex;
       align-items: center;
