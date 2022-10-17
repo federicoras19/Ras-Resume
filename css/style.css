@@ -215,7 +215,7 @@ body::-webkit-scrollbar-thumb {
 
 @media (min-width: 1024px) {
   header {
-    background: #141414;
+    background: #000000;
     background: linear-gradient(180deg, #141414 80%, rgba(255, 255, 255, 0) 100%);
     color: white;
     position: fixed;
@@ -230,7 +230,7 @@ body::-webkit-scrollbar-thumb {
       font-weight: lighter; }
       header .nav-bar a {
         text-decoration: none;
-        color: white; }
+        color: rgb(33, 246, 0); }
       header .nav-bar .logo {
         display: flex;
         flex-direction: row;
